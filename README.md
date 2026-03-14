@@ -39,11 +39,6 @@ Not a tutorial — assumes basic familiarity. Built for fast lookup during prep.
 - [Backtracking](patterns/backtracking.md)
 - [Dynamic Programming](patterns/dynamic_programming.md)
 
-### Templates
-- [DFS](templates/dfs.md)
-- [BFS](templates/bfs.md)
-- [Binary Search](templates/binary_search.md)
-- [Union Find](templates/union_find.md)
 
 ### Cheatsheets
 - [Pattern Recognition](cheatsheets/pattern_recognition.md)
@@ -55,4 +50,3 @@ Not a tutorial — assumes basic familiarity. Built for fast lookup during prep.
 1. **Don't know the concept?** → `concepts/`
 2. **Need to recall a structure?** → `structures/`
 3. **Stuck on problem type?** → `cheatsheets/pattern_recognition.md`
-4. **Know the pattern, need the code?** → `templates/`
